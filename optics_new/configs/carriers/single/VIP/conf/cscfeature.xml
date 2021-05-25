@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SamsungMobileFeature>
+  <Version>ED00004</Version>
+  <Country>CROATIA</Country>
+  <CountryISO>HR</CountryISO>
+  <SalesCode>VIP</SalesCode>
+  <FeatureSet>
+    <CscFeature_Audio_SupportSafeMediaVolumeDialog>TRUE</CscFeature_Audio_SupportSafeMediaVolumeDialog>
+    <CscFeature_Contact_ConfigDuoVideoCall>ViLTE,</CscFeature_Contact_ConfigDuoVideoCall>
+    <CscFeature_Contact_ConfigImsOpStyle>VIP</CscFeature_Contact_ConfigImsOpStyle>
+    <CscFeature_Contact_SupportDuoVideoCall>TRUE</CscFeature_Contact_SupportDuoVideoCall>
+    <CscFeature_Email_UseFixedSmtpPortAs>25</CscFeature_Email_UseFixedSmtpPortAs>
+    <CscFeature_GMS_SupportSTSTool>FALSE</CscFeature_GMS_SupportSTSTool>
+    <CscFeature_Graphics_DisableGameToolsPublicWIFI>TRUE</CscFeature_Graphics_DisableGameToolsPublicWIFI>
+    <CscFeature_Message_EnableReplyAll>TRUE</CscFeature_Message_EnableReplyAll>
+    <CscFeature_RIL_ConfigSVNVersion>71</CscFeature_RIL_ConfigSVNVersion>
+    <CscFeature_RIL_ConfigSpecialPdpFlag>im_cn</CscFeature_RIL_ConfigSpecialPdpFlag>
+    <CscFeature_RIL_SupportEsim>FALSE</CscFeature_RIL_SupportEsim>
+    <CscFeature_SetupWizard_DisablePrivacyPolicyAgreement>TRUE</CscFeature_SetupWizard_DisablePrivacyPolicyAgreement>
+    <CscFeature_SmartSwitch_ConfigHeadUpNotification>never</CscFeature_SmartSwitch_ConfigHeadUpNotification>
+    <CscFeature_SyncML_DeleteCpAfterTryingToInstall>TRUE</CscFeature_SyncML_DeleteCpAfterTryingToInstall>
+    <CscFeature_SyncML_DiscardInvalidNetwpinCp>TRUE</CscFeature_SyncML_DiscardInvalidNetwpinCp>
+    <CscFeature_SyncML_EnableShowVersionNameAferSuccessfulUpdate>TRUE</CscFeature_SyncML_EnableShowVersionNameAferSuccessfulUpdate>
+    <CscFeature_SyncML_HideOmcAppDetailPage>TRUE</CscFeature_SyncML_HideOmcAppDetailPage>
+    <CscFeature_VT_ConfigBearer>-CSVT</CscFeature_VT_ConfigBearer>
+    <CscFeature_VoiceCall_ConfigOpStyleForHdIcon>VIP_HD</CscFeature_VoiceCall_ConfigOpStyleForHdIcon>
+    <CscFeature_VoiceCall_DisableVTOutgoing>TRUE</CscFeature_VoiceCall_DisableVTOutgoing>
+    <CscFeature_VoiceCall_EnableCallButtonInFdnList>TRUE</CscFeature_VoiceCall_EnableCallButtonInFdnList>
+    <CscFeature_VoiceCall_SupportVolteCallBarringPassword>TRUE</CscFeature_VoiceCall_SupportVolteCallBarringPassword>
+    <CscFeature_Weather_ConfigCpType>TWC</CscFeature_Weather_ConfigCpType>
+    <CscFeature_Web_SetUserAgent>VODA</CscFeature_Web_SetUserAgent>
+    <CscFeature_Wifi_ConfigSnsStatus>DEFAULT_ON</CscFeature_Wifi_ConfigSnsStatus>
+  </FeatureSet>
+</SamsungMobileFeature>
