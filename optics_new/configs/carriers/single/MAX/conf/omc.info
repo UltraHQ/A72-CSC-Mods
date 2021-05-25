@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<omcInfo>
+  <contentType>0</contentType>
+  <version>SAOMC_SM-A725F_OXM_MAX_RR_0007</version>
+  <model>
+    <name>SM-A725F</name>
+  </model>
+  <catalog>
+    <customer>yes</customer>
+    <customerEdition>ED0004</customerEdition>
+    <cscfeature>yes</cscfeature>
+    <cscfeaturenetwork>yes</cscfeaturenetwork>
+    <carrierfeature>no</carrierfeature>
+    <cp>no</cp>
+    <imsupdate>no</imsupdate>
+  </catalog>
+  <carrierList>
+    <carrierCount>8</carrierCount>
+    <carrier>
+      <mcc>232</mcc>
+      <mnc>03</mnc>
+      <networkName>T-Mobile A</networkName>
+    </carrier>
+    <carrier>
+      <mcc>232</mcc>
+      <mnc>03</mnc>
+      <codeType>HEX</codeType>
+      <gid>01</gid>
+      <networkName>T-Mobile A</networkName>
+    </carrier>
+    <carrier>
+      <mcc>232</mcc>
+      <mnc>03</mnc>
+      <codeType>HEX</codeType>
+      <gid>31</gid>
+      <networkName>T-Mobile A</networkName>
+    </carrier>
+    <carrier>
+      <mcc>232</mcc>
+      <mnc>03</mnc>
+      <codeType>HEX</codeType>
+      <gid>32</gid>
+      <networkName>T-Mobile A</networkName>
+    </carrier>
+    <carrier>
+      <mcc>232</mcc>
+      <mnc>07</mnc>
+      <codeType>HEX</codeType>
+      <gid>07</gid>
+      <networkName>T-Mobile A</networkName>
+    </carrier>
+    <carrier>
+      <mcc>232</mcc>
+      <mnc>07</mnc>
+      <codeType>HEX</codeType>
+      <gid>FF</gid>
+      <networkName>T-Mobile A</networkName>
+    </carrier>
+    <carrier>
+      <mcc>232</mcc>
+      <mnc>07</mnc>
+      <networkName>T-Mobile A</networkName>
+    </carrier>
+    <carrier>
+      <mcc>232</mcc>
+      <mnc>07</mnc>
+      <codeType>HEX</codeType>
+      <gid>30</gid>
+      <networkName>T-Mobile A</networkName>
+    </carrier>
+  </carrierList>
+</omcInfo>
