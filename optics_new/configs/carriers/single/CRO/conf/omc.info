@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<omcInfo>
+  <contentType>0</contentType>
+  <version>SAOMC_SM-A725F_OXM_CRO_RR_0007</version>
+  <model>
+    <name>SM-A725F</name>
+  </model>
+  <catalog>
+    <customer>yes</customer>
+    <customerEdition>ED0005</customerEdition>
+    <cscfeature>yes</cscfeature>
+    <cscfeaturenetwork>yes</cscfeaturenetwork>
+    <carrierfeature>no</carrierfeature>
+    <cp>no</cp>
+    <imsupdate>no</imsupdate>
+  </catalog>
+  <carrierList>
+    <carrierCount>10</carrierCount>
+    <carrier>
+      <mcc>219</mcc>
+      <mnc>01</mnc>
+      <codeType>HEX</codeType>
+      <gid>12</gid>
+      <networkName>bonbon</networkName>
+    </carrier>
+    <carrier>
+      <mcc>219</mcc>
+      <mnc>01</mnc>
+      <codeType>HEX</codeType>
+      <gid>11</gid>
+      <networkName>bonbon</networkName>
+    </carrier>
+    <carrier>
+      <mcc>219</mcc>
+      <mnc>01</mnc>
+      <codeType>HEX</codeType>
+      <gid>10</gid>
+      <networkName>bonbon</networkName>
+    </carrier>
+    <carrier>
+      <mcc>219</mcc>
+      <mnc>01</mnc>
+      <codeType>HEX</codeType>
+      <gid>03</gid>
+      <networkName>HT HR</networkName>
+    </carrier>
+    <carrier>
+      <mcc>219</mcc>
+      <mnc>01</mnc>
+      <codeType>HEX</codeType>
+      <gid>02</gid>
+      <networkName>HT HR</networkName>
+    </carrier>
+    <carrier>
+      <mcc>219</mcc>
+      <mnc>01</mnc>
+      <codeType>HEX</codeType>
+      <gid>01</gid>
+      <networkName>HT HR</networkName>
+    </carrier>
+    <carrier>
+      <mcc>219</mcc>
+      <mnc>01</mnc>
+      <codeType>HEX</codeType>
+      <gid>99</gid>
+      <networkName>HT HR</networkName>
+    </carrier>
+    <carrier>
+      <mcc>219</mcc>
+      <mnc>01</mnc>
+      <spn>HT HR</spn>
+      <networkName>HT HR</networkName>
+    </carrier>
+    <carrier>
+      <mcc>219</mcc>
+      <mnc>01</mnc>
+      <spn>T-Mobile HR</spn>
+      <networkName>HT HR</networkName>
+    </carrier>
+    <carrier>
+      <mcc>219</mcc>
+      <mnc>01</mnc>
+      <spn>bonbon</spn>
+      <networkName>bonbon</networkName>
+    </carrier>
+  </carrierList>
+</omcInfo>
