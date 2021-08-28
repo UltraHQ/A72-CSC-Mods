@@ -2,7 +2,7 @@
 # A72-CSC-Mods
 A magisk module adding native Call Recording and AppLock to the Galaxy A72!
 
-You can also add your own CSC Mods if you like, as the CSC files are decoded.
+You can also add your own CSC Mods if you like, as the CSC files are decoded and besides the added features, original.
 
 
 Installation:
