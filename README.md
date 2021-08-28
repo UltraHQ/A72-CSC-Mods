@@ -1,9 +1,13 @@
+![131203435-a38477ea-4984-4994-be2b-3b317735251a](https://user-images.githubusercontent.com/35925402/131204226-8b6693a8-87f3-413f-9604-f64b32c4fc2f.png)
 # A72-CSC-Mods
 A magisk module adding native Call Recording and AppLock to the Galaxy A72!
+
+You can also add your own CSC Mods if you please, as the CSC files are decoded.
+
 
 Installation:
 1. Download the module from the releases
 2. Open the magisk app and go to modules
 3. Click the "Install from storage" button and select the .zip you just downloaded 
 
-> Note: It should only be used on the Galaxy A72 (SM-A725F) running Android 11. Trying on other devices is at your own risk. The changes are always reversable, by simply removing the module in magisk.
+> Note: It should only be used on the Galaxy A72 (SM-A725F) running Android 11 with the corresponding android security patch version as written in the releases. Trying on other devices is at your own risk.<br/>The changes are always reversable, by simply removing the module in magisk.
