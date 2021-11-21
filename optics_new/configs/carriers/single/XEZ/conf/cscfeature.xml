@@ -21,5 +21,7 @@
     <CscFeature_VoiceCall_ConfigRecording>RecordingAllowed</CscFeature_VoiceCall_ConfigRecording>
     <CscFeature_Camera_EnableCameraDuringCall>TRUE</CscFeature_Camera_EnableCameraDuringCall>
     <CscFeature_SmartManager_ConfigSubFeatures>applock</CscFeature_SmartManager_ConfigSubFeatures>
+	<CscFeature_Setting_CustNetworkSelMenu4>LTEONLY</CscFeature_Setting_CustNetworkSelMenu4>
+	<CscFeature_FMRadio_BandWidthAs>76000_108000</CscFeature_FMRadio_BandWidthAs>
   </FeatureSet>
 </SamsungMobileFeature>
