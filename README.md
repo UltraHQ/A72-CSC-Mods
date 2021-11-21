@@ -5,6 +5,7 @@ A magisk module adding some CSC-Mods to your Galaxy A72 systemlessly.
 The CSC files are decoded. This means, if something is missing for you, feel free to create a pull request.
 
 ### Recommended module for more mods: [A72-Hidden-Mods](https://github.com/UltraHQ/A72-Hidden-Mods)
+[XDA Thread of A72 CSC Mods](https://forum.xda-developers.com/t/magisk-module-a72-csc-mods.4365057/)
 
 #### Installation:
 1. Download the module from the releases
