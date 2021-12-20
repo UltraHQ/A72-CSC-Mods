@@ -17,9 +17,10 @@ The CSC files are decoded. This means, if something is missing for you, feel fre
 #### Added Features:
 - Setting to disable the Shutter sound in camera app
 - Call recording
-- AppLock
+- ~~AppLock~~ (See known bugs)
 - Setting to enable LTE only
 - Radio FM app wider frequency support (from 76MHz to 108MHz)
 
 #### Known bugs:
-- It may block the option, to change the AP Band when enabling an hotspot. This will get fixed in the future.
+- It may block the option, to change the AP Band when enabling an hotspot. This will get fixed in the future
+- AppLock seems to be broken
