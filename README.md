@@ -12,15 +12,13 @@ The CSC files are decoded. This means, if something is missing for you, feel fre
 2. Open the magisk app and go to modules
 3. Click the "Install from storage" button and select the .zip you just downloaded 
 
-> Note: It should only be used on the Galaxy A72 (SM-A725F) running Android 11. Trying on other devices is at your own risk.<br/>The changes are always reversable, by simply removing the module in magisk.
+> Note: It should only be used on the Galaxy A72 (SM-A725F) running Android 12. Trying on other devices is at your own risk.<br/>The changes are always reversable, by simply removing the module in magisk.
 
 #### Added Features:
 - Setting to disable the Shutter sound in camera app
 - Call recording
-- ~~AppLock~~ (See known bugs)
-- Setting to enable LTE only
 - Radio FM app wider frequency support (from 76MHz to 108MHz)
 
 #### Known bugs:
-- It may block the option, to change the AP Band when enabling an hotspot. This will get fixed in the future
-- AppLock seems to be broken
+- None
+
