@@ -16,6 +16,7 @@ The CSC files are decoded. This means, if something is missing for you, feel fre
 
 #### Added Features:
 - Setting to disable the Shutter sound in camera app
+- Enable camera during call
 - Call recording
 - Radio FM app wider frequency support (from 76MHz to 108MHz)
 
