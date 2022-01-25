@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SamsungMobileFeature>
+  <Version>ED00002</Version>
+  <Country>UNITED KINGDOM</Country>
+  <CountryISO>GB</CountryISO>
+  <SalesCode>CPW</SalesCode>
+  <FeatureSet>
+    <CscFeature_Audio_SupportSafeMediaVolumeDialog>TRUE</CscFeature_Audio_SupportSafeMediaVolumeDialog>
+    <CscFeature_Common_ConfigEmergencyModePackages>com.ipsec.service,com.sec.android.providers.iwlansettings,com.sec.android.providers.mapcon</CscFeature_Common_ConfigEmergencyModePackages>
+    <CscFeature_Common_EulaVersion>2</CscFeature_Common_EulaVersion>
+    <CscFeature_Contact_SupportDuoVideoCall>TRUE</CscFeature_Contact_SupportDuoVideoCall>
+    <CscFeature_GMS_SupportSTSTool>FALSE</CscFeature_GMS_SupportSTSTool>
+    <CscFeature_RIL_SupportEsim>FALSE</CscFeature_RIL_SupportEsim>
+    <CscFeature_Setting_IncludeApn4SwUpdate>FALSE</CscFeature_Setting_IncludeApn4SwUpdate>
+    <CscFeature_SetupWizard_DisablePrivacyPolicyAgreement>TRUE</CscFeature_SetupWizard_DisablePrivacyPolicyAgreement>
+    <CscFeature_VT_ConfigCapability>three_widget</CscFeature_VT_ConfigCapability>
+    <CscFeature_Vision_ConfigBeauty>NLLXX</CscFeature_Vision_ConfigBeauty>
+    <CscFeature_Vision_ConfigFood>AZMXX</CscFeature_Vision_ConfigFood>
+    <CscFeature_Vision_ConfigFoodRecipe>PTRXX</CscFeature_Vision_ConfigFoodRecipe>
+    <CscFeature_Vision_ConfigFoodVideo>YTBXX</CscFeature_Vision_ConfigFoodVideo>
+    <CscFeature_Vision_ConfigImageSearch>PTRXX</CscFeature_Vision_ConfigImageSearch>
+    <CscFeature_Vision_ConfigPlace>FSRXX</CscFeature_Vision_ConfigPlace>
+    <CscFeature_Vision_ConfigPlaceLandmark>SFSGO</CscFeature_Vision_ConfigPlaceLandmark>
+    <CscFeature_Vision_ConfigPlaceMap>GGLXX</CscFeature_Vision_ConfigPlaceMap>
+    <CscFeature_Vision_ConfigPlaceWeather>TWCXX</CscFeature_Vision_ConfigPlaceWeather>
+    <CscFeature_Vision_ConfigShopping>AMZUK</CscFeature_Vision_ConfigShopping>
+    <CscFeature_Vision_ConfigTextExchangerate>OANXX</CscFeature_Vision_ConfigTextExchangerate>
+    <CscFeature_Vision_ConfigTextTranslator>GGLXX</CscFeature_Vision_ConfigTextTranslator>
+    <CscFeature_Vision_ConfigWine>VVNXX</CscFeature_Vision_ConfigWine>
+    <CscFeature_VoiceCall_EnableVmsNumberAsDefaultInCallForwarding>TRUE</CscFeature_VoiceCall_EnableVmsNumberAsDefaultInCallForwarding>
+    <CscFeature_VoiceCall_SupportEmergencyCallUsingVolte>TRUE</CscFeature_VoiceCall_SupportEmergencyCallUsingVolte>
+    <CscFeature_VoiceCall_SupportSettingVoWifiRegiDuringAirplaneMode>All</CscFeature_VoiceCall_SupportSettingVoWifiRegiDuringAirplaneMode>
+    <CscFeature_VoiceCall_SupportShowVowifiEndCall>TRUE</CscFeature_VoiceCall_SupportShowVowifiEndCall>
+    <CscFeature_Weather_ConfigCpType>TWC</CscFeature_Weather_ConfigCpType>
+    <CscFeature_Wifi_SupportSecureWifi>TRUE</CscFeature_Wifi_SupportSecureWifi>
+    <!-- Added -->
+    <CscFeature_Camera_ShutterSoundMenu>TRUE</CscFeature_Camera_ShutterSoundMenu>
+    <CscFeature_Camera_EnableCameraDuringCall>TRUE</CscFeature_Camera_EnableCameraDuringCall>
+    <CscFeature_VoiceCall_ConfigRecording>RecordingAllowed</CscFeature_VoiceCall_ConfigRecording>
+    <CscFeature_FMRadio_BandWidthAs>76000_108000</CscFeature_FMRadio_BandWidthAs>
+  </FeatureSet>
+</SamsungMobileFeature>

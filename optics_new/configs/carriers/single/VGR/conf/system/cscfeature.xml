@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<SamsungMobileFeature>
+  <Version>ED00001</Version>
+  <Country>GREECE</Country>
+  <CountryISO>GR</CountryISO>
+  <SalesCode>VGR</SalesCode>
+  <FeatureSet>
+    <CscFeature_Audio_SupportSafeMediaVolumeDialog>TRUE</CscFeature_Audio_SupportSafeMediaVolumeDialog>
+    <CscFeature_Contact_ConfigImsOpStyle>VGR</CscFeature_Contact_ConfigImsOpStyle>
+    <CscFeature_Contact_SupportDuoVideoCall>TRUE</CscFeature_Contact_SupportDuoVideoCall>
+    <CscFeature_Email_UseFixedSmtpPortAs>25</CscFeature_Email_UseFixedSmtpPortAs>
+    <CscFeature_GMS_SetClientIDBaseAm>android-vf-{country}</CscFeature_GMS_SetClientIDBaseAm>
+    <CscFeature_GMS_SetClientIDBaseCr>android-samsung-ss</CscFeature_GMS_SetClientIDBaseCr>
+    <CscFeature_GMS_SetClientIDBaseMs>android-vf-{country}-revc</CscFeature_GMS_SetClientIDBaseMs>
+    <CscFeature_GMS_SetClientIDBaseVs>android-vf-{country}-rvc2</CscFeature_GMS_SetClientIDBaseVs>
+    <CscFeature_Message_EnableReplyAll>TRUE</CscFeature_Message_EnableReplyAll>
+    <CscFeature_NFC_DefStatus>OFF</CscFeature_NFC_DefStatus>
+    <CscFeature_RIL_ConfigNetworkTypeCapability>EUR-EUR-GSM-EUR</CscFeature_RIL_ConfigNetworkTypeCapability>
+    <CscFeature_RIL_ConfigSVNVersion>63</CscFeature_RIL_ConfigSVNVersion>
+    <CscFeature_RIL_ConfigWbamr>2G</CscFeature_RIL_ConfigWbamr>
+    <CscFeature_RIL_SupportEsim>FALSE</CscFeature_RIL_SupportEsim>
+    <CscFeature_RIL_WbamrDefaultOn>TRUE</CscFeature_RIL_WbamrDefaultOn>
+    <CscFeature_SetupWizard_DisablePrivacyPolicyAgreement>TRUE</CscFeature_SetupWizard_DisablePrivacyPolicyAgreement>
+    <CscFeature_SmartSwitch_ConfigHeadUpNotification>never</CscFeature_SmartSwitch_ConfigHeadUpNotification>
+    <CscFeature_SyncML_DeleteCpAfterTryingToInstall>TRUE</CscFeature_SyncML_DeleteCpAfterTryingToInstall>
+    <CscFeature_SyncML_EnableShowVersionNameAferSuccessfulUpdate>TRUE</CscFeature_SyncML_EnableShowVersionNameAferSuccessfulUpdate>
+    <CscFeature_SystemUI_ConfigOpBranding5GIcon>UseOneShapedIcon</CscFeature_SystemUI_ConfigOpBranding5GIcon>
+    <CscFeature_SystemUI_ConfigOpBrandingForIndicatorIcon>VGR</CscFeature_SystemUI_ConfigOpBrandingForIndicatorIcon>
+    <CscFeature_VT_ConfigBearer>-CSVT</CscFeature_VT_ConfigBearer>
+    <CscFeature_VoiceCall_ConfigOpStyleForHdIcon>VGR_HD,VGR_CSHD</CscFeature_VoiceCall_ConfigOpStyleForHdIcon>
+    <CscFeature_VoiceCall_SupportAutoAnsweringMemo>NOCHANGE</CscFeature_VoiceCall_SupportAutoAnsweringMemo>
+    <CscFeature_Weather_ConfigCpType>TWC</CscFeature_Weather_ConfigCpType>
+    <CscFeature_Web_SetUserAgent>VODA</CscFeature_Web_SetUserAgent>
+    <CscFeature_Wifi_ConfigSnsStatus>DEFAULT_ON</CscFeature_Wifi_ConfigSnsStatus>
+    <!-- Added -->
+    <CscFeature_Camera_ShutterSoundMenu>TRUE</CscFeature_Camera_ShutterSoundMenu>
+    <CscFeature_Camera_EnableCameraDuringCall>TRUE</CscFeature_Camera_EnableCameraDuringCall>
+    <CscFeature_VoiceCall_ConfigRecording>RecordingAllowed</CscFeature_VoiceCall_ConfigRecording>
+    <CscFeature_FMRadio_BandWidthAs>76000_108000</CscFeature_FMRadio_BandWidthAs>
+  </FeatureSet>
+</SamsungMobileFeature>

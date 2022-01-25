@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<SamsungMobileFeature>
+  <Version>ED00002</Version>
+  <Country>POLAND</Country>
+  <CountryISO>PL</CountryISO>
+  <SalesCode>OPV</SalesCode>
+  <FeatureSet>
+    <CscFeature_Audio_SupportSafeMediaVolumeDialog>TRUE</CscFeature_Audio_SupportSafeMediaVolumeDialog>
+    <CscFeature_Common_ConfigSvcProviderForUnknownNumber>whitepages,whitepages,off</CscFeature_Common_ConfigSvcProviderForUnknownNumber>
+    <CscFeature_Contact_ConfigImsOpStyle>OPV</CscFeature_Contact_ConfigImsOpStyle>
+    <CscFeature_Contact_SupportDuoVideoCall>TRUE</CscFeature_Contact_SupportDuoVideoCall>
+    <CscFeature_Email_UseFixedSmtpPortAs>25</CscFeature_Email_UseFixedSmtpPortAs>
+    <CscFeature_Framework_AddProductRoField>BRAND1-orange</CscFeature_Framework_AddProductRoField>
+    <CscFeature_Framework_ConfigPoliyForFreezeBackgroundApp>0</CscFeature_Framework_ConfigPoliyForFreezeBackgroundApp>
+    <CscFeature_GMS_SetClientIDBaseAm>android-orange-{country}</CscFeature_GMS_SetClientIDBaseAm>
+    <CscFeature_GMS_SetClientIDBaseCr>android-samsung-ss</CscFeature_GMS_SetClientIDBaseCr>
+    <CscFeature_GMS_SetClientIDBaseMs>android-orange-{country}-revc</CscFeature_GMS_SetClientIDBaseMs>
+    <CscFeature_GMS_SetClientIDBaseVs>android-orange-{country}-revc</CscFeature_GMS_SetClientIDBaseVs>
+    <CscFeature_Message_EnableMmsConvWarningForEmailAddress>TRUE</CscFeature_Message_EnableMmsConvWarningForEmailAddress>
+    <CscFeature_Message_ReplaceLabelOnRequestedStatus>TRUE</CscFeature_Message_ReplaceLabelOnRequestedStatus>
+    <CscFeature_NFC_DefStatus>ON</CscFeature_NFC_DefStatus>
+    <CscFeature_NFC_StatusBarIconType>DEFAULT</CscFeature_NFC_StatusBarIconType>
+    <CscFeature_RIL_ConfigNetworkTypeCapability>EUR-EUR-GSM-EUR</CscFeature_RIL_ConfigNetworkTypeCapability>
+    <CscFeature_RIL_ConfigWbamr>2G</CscFeature_RIL_ConfigWbamr>
+    <CscFeature_RIL_RemoveToastDuringBipOperation>TRUE</CscFeature_RIL_RemoveToastDuringBipOperation>
+    <CscFeature_RIL_RemoveToastDuringStkRefresh>TRUE</CscFeature_RIL_RemoveToastDuringStkRefresh>
+    <CscFeature_RIL_StkCmdTimeOut>Select item,30</CscFeature_RIL_StkCmdTimeOut>
+    <CscFeature_RIL_SupportEsim>FALSE</CscFeature_RIL_SupportEsim>
+    <CscFeature_RIL_WbamrDefaultOn>TRUE</CscFeature_RIL_WbamrDefaultOn>
+    <CscFeature_Setting_BlockToSelectDunApnType>TRUE</CscFeature_Setting_BlockToSelectDunApnType>
+    <CscFeature_Setting_EnableDataServicePopup>TRUE</CscFeature_Setting_EnableDataServicePopup>
+    <CscFeature_Setting_EnablePromptPopupWhenActivatingDataConnection>TRUE</CscFeature_Setting_EnablePromptPopupWhenActivatingDataConnection>
+    <CscFeature_Setting_SkipStepsDuringSamsungSetupWizard>SamsungAccount,SamsungBackup</CscFeature_Setting_SkipStepsDuringSamsungSetupWizard>
+    <CscFeature_SetupWizard_DisablePrivacyPolicyAgreement>TRUE</CscFeature_SetupWizard_DisablePrivacyPolicyAgreement>
+    <CscFeature_SystemUI_ConfigDefQuickSettingItem>WifiCalling,Wifi,SoundMode,Bluetooth,RotationLock,AirplaneMode,Flashlight,MobileData,Hotspot,BatteryMode,Location,WindowsLink,ScreenRecorder,DesktopMode,AllShareCast,NearbyShare,BlueLightFilter,NightMode,Dnd</CscFeature_SystemUI_ConfigDefQuickSettingItem>
+    <CscFeature_SystemUI_ConfigOpBranding5GIcon>5GAvailable,UseOneShapedIcon</CscFeature_SystemUI_ConfigOpBranding5GIcon>
+    <CscFeature_SystemUI_ConfigOpBrandingForIndicatorIcon>ORANGE</CscFeature_SystemUI_ConfigOpBrandingForIndicatorIcon>
+    <CscFeature_SystemUI_ConfigOverrideDataIcon>LTE</CscFeature_SystemUI_ConfigOverrideDataIcon>
+    <CscFeature_SystemUI_ConfigQuickSettingPopup>OPV</CscFeature_SystemUI_ConfigQuickSettingPopup>
+    <CscFeature_VT_ConfigBearer>-CSVT</CscFeature_VT_ConfigBearer>
+    <CscFeature_VoiceCall_ConfigOpStyleForCallerId>forwarding_number</CscFeature_VoiceCall_ConfigOpStyleForCallerId>
+    <CscFeature_VoiceCall_ConfigOpStyleForHdIcon>OPV_HD,OPV_CSHD</CscFeature_VoiceCall_ConfigOpStyleForHdIcon>
+    <CscFeature_VoiceCall_EnableBeepVibration4UssdAlert>TRUE</CscFeature_VoiceCall_EnableBeepVibration4UssdAlert>
+    <CscFeature_Weather_ConfigCpType>TWC</CscFeature_Weather_ConfigCpType>
+    <CscFeature_Web_DisableChooser4>application/sdp,application/x-mpegurl</CscFeature_Web_DisableChooser4>
+    <CscFeature_Web_EnableAutoBookmarkSetBySim>TRUE</CscFeature_Web_EnableAutoBookmarkSetBySim>
+    <CscFeature_Wifi_EnableWarningPopup4DataBatteryUsage>TRUE</CscFeature_Wifi_EnableWarningPopup4DataBatteryUsage>
+    <!-- Added -->
+    <CscFeature_Camera_ShutterSoundMenu>TRUE</CscFeature_Camera_ShutterSoundMenu>
+    <CscFeature_Camera_EnableCameraDuringCall>TRUE</CscFeature_Camera_EnableCameraDuringCall>
+    <CscFeature_VoiceCall_ConfigRecording>RecordingAllowed</CscFeature_VoiceCall_ConfigRecording>
+    <CscFeature_FMRadio_BandWidthAs>76000_108000</CscFeature_FMRadio_BandWidthAs>
+  </FeatureSet>
+</SamsungMobileFeature>

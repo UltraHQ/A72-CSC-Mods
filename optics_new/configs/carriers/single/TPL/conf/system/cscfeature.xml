@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<SamsungMobileFeature>
+  <Version>ED00002</Version>
+  <Country>POLAND</Country>
+  <CountryISO>PL</CountryISO>
+  <SalesCode>TPL</SalesCode>
+  <FeatureSet>
+    <CscFeature_Audio_SupportSafeMediaVolumeDialog>TRUE</CscFeature_Audio_SupportSafeMediaVolumeDialog>
+    <CscFeature_Common_ConfigSvcProviderForUnknownNumber>whitepages,whitepages,off</CscFeature_Common_ConfigSvcProviderForUnknownNumber>
+    <CscFeature_Common_DisableLTEFallbackAtLowThroughput>TRUE</CscFeature_Common_DisableLTEFallbackAtLowThroughput>
+    <CscFeature_Contact_SupportDuoVideoCall>TRUE</CscFeature_Contact_SupportDuoVideoCall>
+    <CscFeature_Email_EnablePopupWhenChangingSyncSchedule>TRUE</CscFeature_Email_EnablePopupWhenChangingSyncSchedule>
+    <CscFeature_GMS_DisableSetupWizard>FALSE</CscFeature_GMS_DisableSetupWizard>
+    <CscFeature_Message_EnableCheckFDNContactWhenMMSSend>TRUE</CscFeature_Message_EnableCheckFDNContactWhenMMSSend>
+    <CscFeature_Message_EnableReplyAll>TRUE</CscFeature_Message_EnableReplyAll>
+    <CscFeature_Message_ReplaceLabelOnRequestedStatus>TRUE</CscFeature_Message_ReplaceLabelOnRequestedStatus>
+    <CscFeature_NFC_ConfigAdvancedSettings>Disable</CscFeature_NFC_ConfigAdvancedSettings>
+    <CscFeature_NFC_ConfigSecurityPromptPopup>all</CscFeature_NFC_ConfigSecurityPromptPopup>
+    <CscFeature_NFC_DefStatus>ON</CscFeature_NFC_DefStatus>
+    <CscFeature_NFC_StatusBarIconType>DEFAULT</CscFeature_NFC_StatusBarIconType>
+    <CscFeature_RIL_ConfigNetworkTypeCapability>EUR-EUR-GSM-EUR</CscFeature_RIL_ConfigNetworkTypeCapability>
+    <CscFeature_RIL_ConfigWbamr>2G</CscFeature_RIL_ConfigWbamr>
+    <CscFeature_RIL_SupportEsim>FALSE</CscFeature_RIL_SupportEsim>
+    <CscFeature_RIL_WbamrDefaultOn>TRUE</CscFeature_RIL_WbamrDefaultOn>
+    <CscFeature_Setting_EnablePromptPopupWhenActivatingDataConnection>TRUE</CscFeature_Setting_EnablePromptPopupWhenActivatingDataConnection>
+    <CscFeature_SetupWizard_DisablePrivacyPolicyAgreement>TRUE</CscFeature_SetupWizard_DisablePrivacyPolicyAgreement>
+    <CscFeature_SyncML_DeleteCpAfterTryingToInstall>TRUE</CscFeature_SyncML_DeleteCpAfterTryingToInstall>
+    <CscFeature_SystemUI_ConfigOverrideDataIcon>LTE</CscFeature_SystemUI_ConfigOverrideDataIcon>
+    <CscFeature_VT_ConfigBearer>-CSVT</CscFeature_VT_ConfigBearer>
+    <CscFeature_VoiceCall_ConfigOpStyleForHdIcon>NOHD</CscFeature_VoiceCall_ConfigOpStyleForHdIcon>
+    <CscFeature_Weather_ConfigCpType>TWC</CscFeature_Weather_ConfigCpType>
+    <CscFeature_Web_BookmarkPreloadOnChrome>NEVER</CscFeature_Web_BookmarkPreloadOnChrome>
+    <CscFeature_Web_DisableNetworkLinkPrediction>TRUE</CscFeature_Web_DisableNetworkLinkPrediction>
+    <CscFeature_Wifi_ConfigSnsStatus>DEFAULT_ON</CscFeature_Wifi_ConfigSnsStatus>
+    <!-- Added -->
+    <CscFeature_Camera_ShutterSoundMenu>TRUE</CscFeature_Camera_ShutterSoundMenu>
+    <CscFeature_Camera_EnableCameraDuringCall>TRUE</CscFeature_Camera_EnableCameraDuringCall>
+    <CscFeature_VoiceCall_ConfigRecording>RecordingAllowed</CscFeature_VoiceCall_ConfigRecording>
+    <CscFeature_FMRadio_BandWidthAs>76000_108000</CscFeature_FMRadio_BandWidthAs>
+  </FeatureSet>
+</SamsungMobileFeature>

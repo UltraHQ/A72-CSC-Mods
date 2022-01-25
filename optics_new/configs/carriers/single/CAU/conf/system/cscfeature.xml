@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<SamsungMobileFeature>
+  <Version>ED00001</Version>
+  <Country>GEORGIA</Country>
+  <CountryISO>GE</CountryISO>
+  <SalesCode>CAU</SalesCode>
+  <FeatureSet>
+    <CscFeature_Audio_SupportSafeMediaVolumeDialog>TRUE</CscFeature_Audio_SupportSafeMediaVolumeDialog>
+    <CscFeature_Common_DisablePhoneNumberFormatting>TRUE</CscFeature_Common_DisablePhoneNumberFormatting>
+    <CscFeature_Contact_FullCountryPrefixSearchSupport>TRUE</CscFeature_Contact_FullCountryPrefixSearchSupport>
+    <CscFeature_Contact_SupportDuoVideoCall>TRUE</CscFeature_Contact_SupportDuoVideoCall>
+    <CscFeature_GMS_SetClientIDBaseCr>android-samsung-ss</CscFeature_GMS_SetClientIDBaseCr>
+    <CscFeature_GMS_SetClientIDBaseMs>android-samsung-rvo1</CscFeature_GMS_SetClientIDBaseMs>
+    <CscFeature_GMS_SetClientIDBaseVs>android-samsung-rvo1</CscFeature_GMS_SetClientIDBaseVs>
+    <CscFeature_RIL_ConfigNetworkTypeCapability>EUR-EUR-GSM-EUR</CscFeature_RIL_ConfigNetworkTypeCapability>
+    <CscFeature_RIL_ConfigWbamr>2G</CscFeature_RIL_ConfigWbamr>
+    <CscFeature_RIL_SupportEsim>FALSE</CscFeature_RIL_SupportEsim>
+    <CscFeature_RIL_WbamrDefaultOn>TRUE</CscFeature_RIL_WbamrDefaultOn>
+    <CscFeature_Setting_ConfigAboutDeviceItems>fcc=disabled;</CscFeature_Setting_ConfigAboutDeviceItems>
+    <CscFeature_VT_ConfigBearer>-CSVT</CscFeature_VT_ConfigBearer>
+    <CscFeature_Weather_ConfigCpType>TWC</CscFeature_Weather_ConfigCpType>
+    <CscFeature_Wifi_ConfigSnsStatus>DEFAULT_ON</CscFeature_Wifi_ConfigSnsStatus>
+    <!-- Added -->
+    <CscFeature_Camera_ShutterSoundMenu>TRUE</CscFeature_Camera_ShutterSoundMenu>
+    <CscFeature_Camera_EnableCameraDuringCall>TRUE</CscFeature_Camera_EnableCameraDuringCall>
+    <CscFeature_VoiceCall_ConfigRecording>RecordingAllowed</CscFeature_VoiceCall_ConfigRecording>
+    <CscFeature_FMRadio_BandWidthAs>76000_108000</CscFeature_FMRadio_BandWidthAs>
+  </FeatureSet>
+</SamsungMobileFeature>

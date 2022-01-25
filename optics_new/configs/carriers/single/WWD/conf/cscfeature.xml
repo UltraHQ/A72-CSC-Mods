@@ -1,0 +1,47 @@
+<?xml  version="1.0" encoding="UTF-8" ?>
+<SamsungMobileFeature>
+  <Version>ED00001</Version>
+  <Country>Switzerland</Country>
+  <CountryISO>CH</CountryISO>
+  <SalesCode>WWD</SalesCode>
+  <FeatureSet>
+    <CscFeature_BT_DisableNAP>FALSE</CscFeature_BT_DisableNAP>
+    <CscFeature_BT_DisableSAP>TRUE</CscFeature_BT_DisableSAP>
+    <CscFeature_Common_ConfigMarketInfoVariation>Disable</CscFeature_Common_ConfigMarketInfoVariation>
+    <CscFeature_Common_ConfigSwis>-1</CscFeature_Common_ConfigSwis>
+    <CscFeature_Common_EnableLiveDemo>TRUE</CscFeature_Common_EnableLiveDemo>
+    <CscFeature_Framework_ConfigPoliyForFreezeBackgroundApp>0</CscFeature_Framework_ConfigPoliyForFreezeBackgroundApp>
+    <CscFeature_GMS_SetClientIDBaseCr>android-samsung-ss</CscFeature_GMS_SetClientIDBaseCr>
+    <CscFeature_GMS_SetClientIDBaseMs>android-samsung-rvo1</CscFeature_GMS_SetClientIDBaseMs>
+    <CscFeature_GMS_SetClientIDBaseVs>android-samsung-rvo1</CscFeature_GMS_SetClientIDBaseVs>	
+    <CscFeature_GMS_SupportSTSTool>FALSE</CscFeature_GMS_SupportSTSTool>
+    <CscFeature_Message_ConfigFreeMessage>off</CscFeature_Message_ConfigFreeMessage>
+    <CscFeature_Message_DisableChooserForUrlLink>TRUE</CscFeature_Message_DisableChooserForUrlLink>
+    <CscFeature_NFC_DefStatus>OFF</CscFeature_NFC_DefStatus>
+    <CscFeature_RIL_SupportEsim>FALSE</CscFeature_RIL_SupportEsim>
+    <CscFeature_Setting_IncludeApn4SwUpdate>TRUE</CscFeature_Setting_IncludeApn4SwUpdate>
+    <CscFeature_Setting_SupportDefaultScreenMode6500k>TRUE</CscFeature_Setting_SupportDefaultScreenMode6500k>
+    <CscFeature_SetupWizard_DisablePrivacyPolicyAgreement>TRUE</CscFeature_SetupWizard_DisablePrivacyPolicyAgreement>
+    <CscFeature_SystemUI_ConfigDefQuickSettingItem>Wifi,SoundMode,Bluetooth,RotationLock,Flashlight,BatteryMode,Location,WindowsLink,ScreenRecorder,DesktopMode,AllShareCast,NearbyShare,BlueLightFilter,NightMode,Dnd,AirplaneMode</CscFeature_SystemUI_ConfigDefQuickSettingItem>
+    <CscFeature_SystemUI_ConfigQuickSettingPopup>PAP</CscFeature_SystemUI_ConfigQuickSettingPopup>
+    <CscFeature_Vision_ConfigBeauty>NLLXX</CscFeature_Vision_ConfigBeauty>
+    <CscFeature_Vision_ConfigFood>NLLXX</CscFeature_Vision_ConfigFood>
+    <CscFeature_Vision_ConfigImageSearch>PTRXX</CscFeature_Vision_ConfigImageSearch>
+    <CscFeature_Vision_ConfigPlace>FSRXX</CscFeature_Vision_ConfigPlace>
+    <CscFeature_Vision_ConfigPlaceLandmark>SFSGO</CscFeature_Vision_ConfigPlaceLandmark>
+    <CscFeature_Vision_ConfigPlaceMap>GGLXX</CscFeature_Vision_ConfigPlaceMap>
+    <CscFeature_Vision_ConfigPlaceWeather>TWCXX</CscFeature_Vision_ConfigPlaceWeather>
+    <CscFeature_Vision_ConfigShopping>NLLXX</CscFeature_Vision_ConfigShopping>
+    <CscFeature_Vision_ConfigTextExchangerate>OANXX</CscFeature_Vision_ConfigTextExchangerate>
+    <CscFeature_Vision_ConfigTextTranslator>GGLXX</CscFeature_Vision_ConfigTextTranslator>
+    <CscFeature_Vision_ConfigWine>VVNXX</CscFeature_Vision_ConfigWine>
+    <CscFeature_Weather_ConfigCpType>TWC</CscFeature_Weather_ConfigCpType>
+    <CscFeature_Web_ConfigSyncSource>TRUE</CscFeature_Web_ConfigSyncSource>
+    <CscFeature_Wifi_ConfigSnsStatus>DEFAULT_ON</CscFeature_Wifi_ConfigSnsStatus>
+    <!-- Added -->
+    <CscFeature_Camera_ShutterSoundMenu>TRUE</CscFeature_Camera_ShutterSoundMenu>
+    <CscFeature_Camera_EnableCameraDuringCall>TRUE</CscFeature_Camera_EnableCameraDuringCall>
+    <CscFeature_VoiceCall_ConfigRecording>RecordingAllowed</CscFeature_VoiceCall_ConfigRecording>
+    <CscFeature_FMRadio_BandWidthAs>76000_108000</CscFeature_FMRadio_BandWidthAs>
+  </FeatureSet>
+</SamsungMobileFeature>

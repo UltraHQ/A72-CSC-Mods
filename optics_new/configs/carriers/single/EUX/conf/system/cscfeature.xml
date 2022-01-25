@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<SamsungMobileFeature>
+  <Version>ED00002</Version>
+  <Country>GERMANY</Country>
+  <CountryISO>DE</CountryISO>
+  <SalesCode>EUX</SalesCode>
+  <FeatureSet>
+    <CscFeature_Audio_SupportSafeMediaVolumeDialog>TRUE</CscFeature_Audio_SupportSafeMediaVolumeDialog>
+    <CscFeature_Common_ConfigSvcProviderForUnknownNumber>whitepages,whitepages,off</CscFeature_Common_ConfigSvcProviderForUnknownNumber>
+    <CscFeature_Contact_SupportDuoVideoCall>TRUE</CscFeature_Contact_SupportDuoVideoCall>
+    <CscFeature_RIL_ConfigNetworkTypeCapability>EUR-EUR-GSM-EUR</CscFeature_RIL_ConfigNetworkTypeCapability>
+    <CscFeature_RIL_ConfigWbamr>2G</CscFeature_RIL_ConfigWbamr>
+    <CscFeature_RIL_EmergencycallonlyNotDisplay>TRUE</CscFeature_RIL_EmergencycallonlyNotDisplay>
+    <CscFeature_RIL_WbamrDefaultOn>TRUE</CscFeature_RIL_WbamrDefaultOn>
+    <CscFeature_SetupWizard_ConfigProvidedCountrySet>AT_AT;CH_CH;LI_CH;BG_BG;GB_GB;IE_GB;DE_DE;GR_GR;IT_IT;MT_IT;SM_IT;VA_IT;BE_LU;LU_LU;SE_SE;DK_SE;FI_SE;NO_SE;IS_SE;ES_ES;AD_ES;NL_NL;EE_LV;LT_LV;LV_LV;RS_RS;XK_RS;BA_RS;AL_RS;MK_RS;ME_RS;HR_SI;SI_SI;PT_PT;RO_RO;FR_FR;MC_FR;HU_HU;PL_PL;CZ_CZ;SK_SK</CscFeature_SetupWizard_ConfigProvidedCountrySet>
+    <CscFeature_SetupWizard_ConfigProvidedLocaleSet>en;fr_rCA;de;it;es_rES;pt_rPT;nl;sq_rAL;hr;mk_rMK;sr;sl;da;fi;et_rEE;sv;pl;ro;nb;el;lv;lt;bg;hu;cs;sk;ko_KR;zh_rCN</CscFeature_SetupWizard_ConfigProvidedLocaleSet>
+    <CscFeature_SetupWizard_DisablePrivacyPolicyAgreement>TRUE</CscFeature_SetupWizard_DisablePrivacyPolicyAgreement>
+    <CscFeature_VT_ConfigBearer>-CSVT</CscFeature_VT_ConfigBearer>
+    <CscFeature_VT_SupportAddCall>TRUE</CscFeature_VT_SupportAddCall>
+    <CscFeature_Weather_ConfigCpType>TWC</CscFeature_Weather_ConfigCpType>
+    <CscFeature_Wifi_ConfigSnsStatus>DEFAULT_ON</CscFeature_Wifi_ConfigSnsStatus>
+    <CscFeature_Wifi_SupportBlockSkipForSetupWizard>TRUE</CscFeature_Wifi_SupportBlockSkipForSetupWizard>
+    <!-- Added -->
+    <CscFeature_Camera_ShutterSoundMenu>TRUE</CscFeature_Camera_ShutterSoundMenu>
+    <CscFeature_Camera_EnableCameraDuringCall>TRUE</CscFeature_Camera_EnableCameraDuringCall>
+    <CscFeature_VoiceCall_ConfigRecording>RecordingAllowed</CscFeature_VoiceCall_ConfigRecording>
+    <CscFeature_FMRadio_BandWidthAs>76000_108000</CscFeature_FMRadio_BandWidthAs>
+  </FeatureSet>
+</SamsungMobileFeature>
